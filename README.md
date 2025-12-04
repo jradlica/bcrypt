@@ -4,7 +4,7 @@ A lightweight Docker container for generating and verifying bcrypt hashes.
 
 Repository: https://github.com/jradlica/bcrypt
 
-Registry: [https://hub.docker.com/repository/docker/jradlica/bcrypt](https://hub.docker.com/r/jradlica/bcrypt)
+Registry: https://hub.docker.com/r/jradlica/bcrypt
 
 ### Options
 
